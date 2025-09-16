@@ -112,9 +112,6 @@ Para compilar e rodar os projetos, siga os passos abaixo.
 
 ![Placa modular RP2040 e ESP32](images/boards.jpg)
 
-* [Inserir link para vídeo demonstrativo]
-* [Inserir link para o artigo ou documentação adicional]
-
 ---
 
 ## 👤 Autores
